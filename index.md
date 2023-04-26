@@ -9,3 +9,6 @@
 $ git inicializar
 Repositorio Git vacío inicializado en /Users/skills/Projects/recipe-repository/.git/
 ```
+- [x] crear una cuenta de GitHub
+- [ ] realizar las manos de obras
+- [ ] ser feliz
